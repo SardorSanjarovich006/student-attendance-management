@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\Desktop\\VS 2026\\StudentAttendanceManagenent\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C831AC01-F0F5-684A-B311-E02ABC19CBD0}|StudentAttandanceManagement.Client\\StudentAttandanceManagement.Client.csproj|c:\\users\\asus\\desktop\\vs 2026\\studentattendancemanagenent\\studentattandancemanagement.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C831AC01-F0F5-684A-B311-E02ABC19CBD0}|StudentAttandanceManagement.Client\\StudentAttandanceManagement.Client.csproj|solutionrelative:studentattandancemanagement.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BCB081C-3583-B734-925C-1CF388853510}|StudentAttandanceManagement.Domain\\StudentAttandanceManagement.Domain.csproj|c:\\users\\asus\\desktop\\vs 2026\\studentattendancemanagenent\\studentattandancemanagement.domain\\models\\externalattendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BCB081C-3583-B734-925C-1CF388853510}|StudentAttandanceManagement.Domain\\StudentAttandanceManagement.Domain.csproj|solutionrelative:studentattandancemanagement.domain\\models\\externalattendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BCB081C-3583-B734-925C-1CF388853510}|StudentAttandanceManagement.Domain\\StudentAttandanceManagement.Domain.csproj|c:\\users\\asus\\desktop\\vs 2026\\studentattendancemanagenent\\studentattandancemanagement.domain\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BCB081C-3583-B734-925C-1CF388853510}|StudentAttandanceManagement.Domain\\StudentAttandanceManagement.Domain.csproj|solutionrelative:studentattandancemanagement.domain\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BCB081C-3583-B734-925C-1CF388853510}|StudentAttandanceManagement.Domain\\StudentAttandanceManagement.Domain.csproj|c:\\users\\asus\\desktop\\vs 2026\\studentattendancemanagenent\\studentattandancemanagement.domain\\attandance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BCB081C-3583-B734-925C-1CF388853510}|StudentAttandanceManagement.Domain\\StudentAttandanceManagement.Domain.csproj|solutionrelative:studentattandancemanagement.domain\\attandance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAD37C4-C871-20B3-79AD-BDB3888E7366}|StudentAttandanceManagement.Aplication\\StudentAttandanceManagement.Aplication.csproj|c:\\users\\asus\\desktop\\vs 2026\\studentattendancemanagenent\\studentattandancemanagement.aplication\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFAD37C4-C871-20B3-79AD-BDB3888E7366}|StudentAttandanceManagement.Aplication\\StudentAttandanceManagement.Aplication.csproj|solutionrelative:studentattandancemanagement.aplication\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAD37C4-C871-20B3-79AD-BDB3888E7366}|StudentAttandanceManagement.Aplication\\StudentAttandanceManagement.Aplication.csproj|c:\\users\\asus\\desktop\\vs 2026\\studentattendancemanagenent\\studentattandancemanagement.aplication\\services\\attendanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFAD37C4-C871-20B3-79AD-BDB3888E7366}|StudentAttandanceManagement.Aplication\\StudentAttandanceManagement.Aplication.csproj|solutionrelative:studentattandancemanagement.aplication\\services\\attendanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0964253-4659-BEA5-BF4F-D7B41F04FEEA}|StudentAttendanceManagement.Infrastucture\\StudentAttendanceManagement.Infrastucture.csproj|c:\\users\\asus\\desktop\\vs 2026\\studentattendancemanagenent\\studentattendancemanagement.infrastucture\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0964253-4659-BEA5-BF4F-D7B41F04FEEA}|StudentAttendanceManagement.Infrastucture\\StudentAttendanceManagement.Infrastucture.csproj|solutionrelative:studentattendancemanagement.infrastucture\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0964253-4659-BEA5-BF4F-D7B41F04FEEA}|StudentAttendanceManagement.Infrastucture\\StudentAttendanceManagement.Infrastucture.csproj|c:\\users\\asus\\desktop\\vs 2026\\studentattendancemanagenent\\studentattendancemanagement.infrastucture\\attandancerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0964253-4659-BEA5-BF4F-D7B41F04FEEA}|StudentAttendanceManagement.Infrastucture\\StudentAttendanceManagement.Infrastucture.csproj|solutionrelative:studentattendancemanagement.infrastucture\\attandancerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAD37C4-C871-20B3-79AD-BDB3888E7366}|StudentAttandanceManagement.Aplication\\StudentAttandanceManagement.Aplication.csproj|c:\\users\\asus\\desktop\\vs 2026\\studentattendancemanagenent\\studentattandancemanagement.aplication\\studentattandancemanagement.aplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BFAD37C4-C871-20B3-79AD-BDB3888E7366}|StudentAttandanceManagement.Aplication\\StudentAttandanceManagement.Aplication.csproj|solutionrelative:studentattandancemanagement.aplication\\studentattandancemanagement.aplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C831AC01-F0F5-684A-B311-E02ABC19CBD0}|StudentAttandanceManagement.Client\\StudentAttandanceManagement.Client.csproj|c:\\users\\asus\\desktop\\vs 2026\\studentattendancemanagenent\\studentattandancemanagement.client\\studentattandancemanagement.client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C831AC01-F0F5-684A-B311-E02ABC19CBD0}|StudentAttandanceManagement.Client\\StudentAttandanceManagement.Client.csproj|solutionrelative:studentattandancemanagement.client\\studentattandancemanagement.client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0964253-4659-BEA5-BF4F-D7B41F04FEEA}|StudentAttendanceManagement.Infrastucture\\StudentAttendanceManagement.Infrastucture.csproj|c:\\users\\asus\\desktop\\vs 2026\\studentattendancemanagenent\\studentattendancemanagement.infrastucture\\studentattendancemanagement.infrastucture.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B0964253-4659-BEA5-BF4F-D7B41F04FEEA}|StudentAttendanceManagement.Infrastucture\\StudentAttendanceManagement.Infrastucture.csproj|solutionrelative:studentattendancemanagement.infrastucture\\studentattendancemanagement.infrastucture.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BCB081C-3583-B734-925C-1CF388853510}|StudentAttandanceManagement.Domain\\StudentAttandanceManagement.Domain.csproj|c:\\users\\asus\\desktop\\vs 2026\\studentattendancemanagenent\\studentattandancemanagement.domain\\studentattandancemanagement.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0BCB081C-3583-B734-925C-1CF388853510}|StudentAttandanceManagement.Domain\\StudentAttandanceManagement.Domain.csproj|solutionrelative:studentattandancemanagement.domain\\studentattandancemanagement.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Attandance.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\VS 2026\\StudentAttendanceManagenent\\StudentAttandanceManagement.Domain\\Attandance.cs",
+              "RelativeDocumentMoniker": "StudentAttandanceManagement.Domain\\Attandance.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\VS 2026\\StudentAttendanceManagenent\\StudentAttandanceManagement.Domain\\Attandance.cs",
+              "RelativeToolTip": "StudentAttandanceManagement.Domain\\Attandance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T14:30:36.492Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\VS 2026\\StudentAttendanceManagenent\\StudentAttandanceManagement.Aplication\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "StudentAttandanceManagement.Aplication\\Services\\StudentService.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\VS 2026\\StudentAttendanceManagenent\\StudentAttandanceManagement.Aplication\\Services\\StudentService.cs",
+              "RelativeToolTip": "StudentAttandanceManagement.Aplication\\Services\\StudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T08:04:53.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\VS 2026\\StudentAttendanceManagenent\\StudentAttendanceManagement.Infrastucture\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "StudentAttendanceManagement.Infrastucture\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\VS 2026\\StudentAttendanceManagenent\\StudentAttendanceManagement.Infrastucture\\StudentRepository.cs",
+              "RelativeToolTip": "StudentAttendanceManagement.Infrastucture\\StudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T08:09:28.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExternalAttendance.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\VS 2026\\StudentAttendanceManagenent\\StudentAttandanceManagement.Domain\\Models\\ExternalAttendance.cs",
+              "RelativeDocumentMoniker": "StudentAttandanceManagement.Domain\\Models\\ExternalAttendance.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\VS 2026\\StudentAttendanceManagenent\\StudentAttandanceManagement.Domain\\Models\\ExternalAttendance.cs",
+              "RelativeToolTip": "StudentAttandanceManagement.Domain\\Models\\ExternalAttendance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T08:07:21.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AttendanceService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\VS 2026\\StudentAttendanceManagenent\\StudentAttandanceManagement.Aplication\\Services\\AttendanceService.cs",
+              "RelativeDocumentMoniker": "StudentAttandanceManagement.Aplication\\Services\\AttendanceService.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\VS 2026\\StudentAttendanceManagenent\\StudentAttandanceManagement.Aplication\\Services\\AttendanceService.cs",
+              "RelativeToolTip": "StudentAttandanceManagement.Aplication\\Services\\AttendanceService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T08:04:27.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\VS 2026\\StudentAttendanceManagenent\\StudentAttandanceManagement.Client\\Program.cs",
+              "RelativeDocumentMoniker": "StudentAttandanceManagement.Client\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\VS 2026\\StudentAttendanceManagenent\\StudentAttandanceManagement.Client\\Program.cs",
+              "RelativeToolTip": "StudentAttandanceManagement.Client\\Program.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAA+wGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T17:54:02.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\VS 2026\\StudentAttendanceManagenent\\StudentAttandanceManagement.Domain\\Student.cs",
+              "RelativeDocumentMoniker": "StudentAttandanceManagement.Domain\\Student.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\VS 2026\\StudentAttendanceManagenent\\StudentAttandanceManagement.Domain\\Student.cs",
+              "RelativeToolTip": "StudentAttandanceManagement.Domain\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T14:30:23.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AttandanceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\VS 2026\\StudentAttendanceManagenent\\StudentAttendanceManagement.Infrastucture\\AttandanceRepository.cs",
+              "RelativeDocumentMoniker": "StudentAttendanceManagement.Infrastucture\\AttandanceRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\VS 2026\\StudentAttendanceManagenent\\StudentAttendanceManagement.Infrastucture\\AttandanceRepository.cs",
+              "RelativeToolTip": "StudentAttendanceManagement.Infrastucture\\AttandanceRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T08:09:05.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentAttandanceManagement.Aplication",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\VS 2026\\StudentAttendanceManagenent\\StudentAttandanceManagement.Aplication\\StudentAttandanceManagement.Aplication.csproj",
+              "RelativeDocumentMoniker": "StudentAttandanceManagement.Aplication\\StudentAttandanceManagement.Aplication.csproj",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\VS 2026\\StudentAttendanceManagenent\\StudentAttandanceManagement.Aplication\\StudentAttandanceManagement.Aplication.csproj",
+              "RelativeToolTip": "StudentAttandanceManagement.Aplication\\StudentAttandanceManagement.Aplication.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-25T08:11:21.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentAttandanceManagement.Client",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\VS 2026\\StudentAttendanceManagenent\\StudentAttandanceManagement.Client\\StudentAttandanceManagement.Client.csproj",
+              "RelativeDocumentMoniker": "StudentAttandanceManagement.Client\\StudentAttandanceManagement.Client.csproj",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\VS 2026\\StudentAttendanceManagenent\\StudentAttandanceManagement.Client\\StudentAttandanceManagement.Client.csproj",
+              "RelativeToolTip": "StudentAttandanceManagement.Client\\StudentAttandanceManagement.Client.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-25T08:11:01.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StudentAttendanceManagement.Infrastucture.csproj",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\VS 2026\\StudentAttendanceManagenent\\StudentAttendanceManagement.Infrastucture\\StudentAttendanceManagement.Infrastucture.csproj",
+              "RelativeDocumentMoniker": "StudentAttendanceManagement.Infrastucture\\StudentAttendanceManagement.Infrastucture.csproj",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\VS 2026\\StudentAttendanceManagenent\\StudentAttendanceManagement.Infrastucture\\StudentAttendanceManagement.Infrastucture.csproj",
+              "RelativeToolTip": "StudentAttendanceManagement.Infrastucture\\StudentAttendanceManagement.Infrastucture.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-23T17:58:22.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StudentAttandanceManagement.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\VS 2026\\StudentAttendanceManagenent\\StudentAttandanceManagement.Domain\\StudentAttandanceManagement.Domain.csproj",
+              "RelativeDocumentMoniker": "StudentAttandanceManagement.Domain\\StudentAttandanceManagement.Domain.csproj",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\VS 2026\\StudentAttendanceManagenent\\StudentAttandanceManagement.Domain\\StudentAttandanceManagement.Domain.csproj",
+              "RelativeToolTip": "StudentAttandanceManagement.Domain\\StudentAttandanceManagement.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-24T14:18:12.136Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

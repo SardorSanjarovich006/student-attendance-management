@@ -1,0 +1,74 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "StudentAttandanceManagement.Client/1.0.0": {
+        "dependencies": {
+          "StudentAttandanceManagement.Aplication": "1.0.0",
+          "StudentAttandanceManagement.Domain": "1.0.0",
+          "StudentAttendanceManagement.Infrastucture": "1.0.0"
+        },
+        "runtime": {
+          "StudentAttandanceManagement.Client.dll": {}
+        }
+      },
+      "StudentAttandanceManagement.Aplication/1.0.0": {
+        "dependencies": {
+          "StudentAttandanceManagement.Domain": "1.0.0",
+          "StudentAttendanceManagement.Infrastucture": "1.0.0"
+        },
+        "runtime": {
+          "StudentAttandanceManagement.Aplication.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "StudentAttandanceManagement.Domain/1.0.0": {
+        "runtime": {
+          "StudentAttandanceManagement.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "StudentAttendanceManagement.Infrastucture/1.0.0": {
+        "dependencies": {
+          "StudentAttandanceManagement.Domain": "1.0.0"
+        },
+        "runtime": {
+          "StudentAttendanceManagement.Infrastucture.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StudentAttandanceManagement.Client/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StudentAttandanceManagement.Aplication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StudentAttandanceManagement.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StudentAttendanceManagement.Infrastucture/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

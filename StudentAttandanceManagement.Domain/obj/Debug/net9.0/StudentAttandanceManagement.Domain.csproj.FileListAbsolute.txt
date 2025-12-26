@@ -1,0 +1,12 @@
+C:\Users\Asus\Desktop\VS 2026\StudentAttendanceManagenent\StudentAttandanceManagement.Domain\bin\Debug\net9.0\StudentAttandanceManagement.Domain.deps.json
+C:\Users\Asus\Desktop\VS 2026\StudentAttendanceManagenent\StudentAttandanceManagement.Domain\bin\Debug\net9.0\StudentAttandanceManagement.Domain.dll
+C:\Users\Asus\Desktop\VS 2026\StudentAttendanceManagenent\StudentAttandanceManagement.Domain\bin\Debug\net9.0\StudentAttandanceManagement.Domain.pdb
+C:\Users\Asus\Desktop\VS 2026\StudentAttendanceManagenent\StudentAttandanceManagement.Domain\obj\Debug\net9.0\StudentAttandanceManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\VS 2026\StudentAttendanceManagenent\StudentAttandanceManagement.Domain\obj\Debug\net9.0\StudentAttandanceManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\VS 2026\StudentAttendanceManagenent\StudentAttandanceManagement.Domain\obj\Debug\net9.0\StudentAttandanceManagement.Domain.AssemblyInfo.cs
+C:\Users\Asus\Desktop\VS 2026\StudentAttendanceManagenent\StudentAttandanceManagement.Domain\obj\Debug\net9.0\StudentAttandanceManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\VS 2026\StudentAttendanceManagenent\StudentAttandanceManagement.Domain\obj\Debug\net9.0\StudentAttandanceManagement.Domain.sourcelink.json
+C:\Users\Asus\Desktop\VS 2026\StudentAttendanceManagenent\StudentAttandanceManagement.Domain\obj\Debug\net9.0\StudentAttandanceManagement.Domain.dll
+C:\Users\Asus\Desktop\VS 2026\StudentAttendanceManagenent\StudentAttandanceManagement.Domain\obj\Debug\net9.0\refint\StudentAttandanceManagement.Domain.dll
+C:\Users\Asus\Desktop\VS 2026\StudentAttendanceManagenent\StudentAttandanceManagement.Domain\obj\Debug\net9.0\StudentAttandanceManagement.Domain.pdb
+C:\Users\Asus\Desktop\VS 2026\StudentAttendanceManagenent\StudentAttandanceManagement.Domain\obj\Debug\net9.0\ref\StudentAttandanceManagement.Domain.dll

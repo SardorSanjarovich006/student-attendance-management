@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="StudentAttandanceManagement.Aplication/StudentAttandanceManagement.Aplication.csproj" />
+  <Project Path="StudentAttandanceManagement.Client/StudentAttandanceManagement.Client.csproj" />
+  <Project Path="StudentAttandanceManagement.Domain/StudentAttandanceManagement.Domain.csproj" />
+  <Project Path="StudentAttendanceManagement.Infrastucture/StudentAttendanceManagement.Infrastucture.csproj" />
+</Solution>

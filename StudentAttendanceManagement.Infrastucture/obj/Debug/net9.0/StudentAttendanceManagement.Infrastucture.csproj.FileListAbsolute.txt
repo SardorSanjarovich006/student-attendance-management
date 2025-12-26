@@ -1,0 +1,16 @@
+C:\Users\Asus\Desktop\VS 2026\StudentAttendanceManagenent\StudentAttendanceManagement.Infrastucture\bin\Debug\net9.0\StudentAttendanceManagement.Infrastucture.deps.json
+C:\Users\Asus\Desktop\VS 2026\StudentAttendanceManagenent\StudentAttendanceManagement.Infrastucture\bin\Debug\net9.0\StudentAttendanceManagement.Infrastucture.dll
+C:\Users\Asus\Desktop\VS 2026\StudentAttendanceManagenent\StudentAttendanceManagement.Infrastucture\bin\Debug\net9.0\StudentAttendanceManagement.Infrastucture.pdb
+C:\Users\Asus\Desktop\VS 2026\StudentAttendanceManagenent\StudentAttendanceManagement.Infrastucture\obj\Debug\net9.0\StudentAttendanceManagement.Infrastucture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\VS 2026\StudentAttendanceManagenent\StudentAttendanceManagement.Infrastucture\obj\Debug\net9.0\StudentAttendanceManagement.Infrastucture.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\VS 2026\StudentAttendanceManagenent\StudentAttendanceManagement.Infrastucture\obj\Debug\net9.0\StudentAttendanceManagement.Infrastucture.AssemblyInfo.cs
+C:\Users\Asus\Desktop\VS 2026\StudentAttendanceManagenent\StudentAttendanceManagement.Infrastucture\obj\Debug\net9.0\StudentAttendanceManagement.Infrastucture.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\VS 2026\StudentAttendanceManagenent\StudentAttendanceManagement.Infrastucture\obj\Debug\net9.0\StudentAttendanceManagement.Infrastucture.sourcelink.json
+C:\Users\Asus\Desktop\VS 2026\StudentAttendanceManagenent\StudentAttendanceManagement.Infrastucture\obj\Debug\net9.0\StudentAttendanceManagement.Infrastucture.dll
+C:\Users\Asus\Desktop\VS 2026\StudentAttendanceManagenent\StudentAttendanceManagement.Infrastucture\obj\Debug\net9.0\refint\StudentAttendanceManagement.Infrastucture.dll
+C:\Users\Asus\Desktop\VS 2026\StudentAttendanceManagenent\StudentAttendanceManagement.Infrastucture\obj\Debug\net9.0\StudentAttendanceManagement.Infrastucture.pdb
+C:\Users\Asus\Desktop\VS 2026\StudentAttendanceManagenent\StudentAttendanceManagement.Infrastucture\obj\Debug\net9.0\ref\StudentAttendanceManagement.Infrastucture.dll
+C:\Users\Asus\Desktop\VS 2026\StudentAttendanceManagenent\StudentAttendanceManagement.Infrastucture\bin\Debug\net9.0\StudentAttandanceManagement.Domain.dll
+C:\Users\Asus\Desktop\VS 2026\StudentAttendanceManagenent\StudentAttendanceManagement.Infrastucture\bin\Debug\net9.0\StudentAttandanceManagement.Domain.pdb
+C:\Users\Asus\Desktop\VS 2026\StudentAttendanceManagenent\StudentAttendanceManagement.Infrastucture\obj\Debug\net9.0\StudentAttendanceManagement.Infrastucture.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\VS 2026\StudentAttendanceManagenent\StudentAttendanceManagement.Infrastucture\obj\Debug\net9.0\StudentA.392F3F45.Up2Date
